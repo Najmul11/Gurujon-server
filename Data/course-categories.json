@@ -1,27 +1,39 @@
 [
     {
       "id": "01",
-      "name": "Web development"
+      "name": "Web development",
+      "icon":"https://images.hdqwalls.com/wallpapers/web-development-minimalism-bl.jpg",
+      "id2": "001"
     },
     {
       "id": "02",
-      "name": "Web 3.0"
+      "name": "Web 3.0",
+      "icon":"https://www.teravisiontech.com/wp-content/uploads/2022/04/guide-to.png",
+      "id2": "002"
     },
     {
       "id": "03",
-      "name": "Digital marketing"
+      "name": "Digital marketing",
+      "icon":"https://i2.wp.com/s3-us-west-2.amazonaws.com/content.edupristine.com/images/blogs/6-Aspects-of-Digital-Marketing-you-should-Know.jpg?resize=1280%2C720&ssl=1",
+      "id2": "003"
     },
     {
       "id": "04",
-      "name": "Selfcare"
+      "name": "Selfcare",
+      "icon":"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/1306/images/6HAG9NyVTpSz4S0g2RTW_SELF_CARE.png",
+      "id2": "004"
     },
     {
       "id": "05",
-      "name": "Cooking mania"
+      "name": "Cooking mania",
+      "icon":"https://assets.epicurious.com/photos/57597a5a973781fc02c2a823/16:9/w_1280,c_limit/20150513_Pantry_Items_Posters_Toolkit.jpg",
+      "id2": "005"
     },
     {
       "id": "06",
-      "name": "Trading"
+      "name": "Trading",
+      "icon":"https://nftplazas.com/wp-content/uploads/2022/12/Binance-NFT-Offers-Zero-Trading-Fees-for-December-1280x720.jpg",
+      "id2": "006"
     }
    
   ]
