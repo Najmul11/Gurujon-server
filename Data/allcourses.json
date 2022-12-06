@@ -1,0 +1,99 @@
+[
+    {
+        "course_id":"asdf",
+        "category_id":"01",
+        "courseName":"Full Stack Developer",
+        "body":"This is our top selling course. If you are willing to be an enormous web developer, this is the only coures you need. In 6 months you will be job ready and  master in Html, Css, Javascript, React, MongoDb and so on.",
+        "img":"https://images2.imgbox.com/a1/96/lO8mMhtD_o.png",
+        "ratings":"4.8"
+        
+    },
+    {
+        "course_id":"asdf1234",
+        "category_id":"01",
+        "courseName":"Front-End Pro",
+        "body":"This course focuses on ReactJs, Vite and angularJs. Next six months,hit a new milestone. Be crazy and cosistant. In 6 months you will be job ready and will be called Frontend engineer. Wow that's super cool",
+        "img":"https://images2.imgbox.com/d5/67/wIXRvF7S_o.png",
+        "ratings":"4.9"
+    },
+    {
+        "course_id":"qwerty",
+        "category_id":"02",
+        "courseName":"Solidity A-Z",
+        "body":"This is the time to learn web 3.0. The era is already started. Now or never!. When it comes to web 3.0, solidity is the first thing one should master. Web 3.0 expert..That's exotic!!!",
+        "img":"https://i.ytimg.com/vi/71cmPaD_AnQ/maxresdefault.jpg",
+        "ratings":"4.7"
+    },
+    {
+        "course_id":"qwerty1234",
+        "category_id":"02",
+        "courseName":"Web3Js and Polkadot",
+        "body":"Next four months you'll be on another level . This is the course which will take you on the peak of success. What are you waiting for? Enroll now and bless yourself, enjoy the journey.",
+        "img":"https://i0.wp.com/blockchain-comparison.com/wp-content/uploads/2020/04/Polkadot-Logo_Portfolio.png?fit=1280%2C720&ssl=1",
+        "ratings":"4.9"
+    },
+    {
+        "course_id":"faab",
+        "category_id":"03",
+        "courseName":"Instagram Marketing",
+        "body":"Next two months if you work hard and explore the opportnities in this field, you won't get disappointed. What are you waiting for? Enroll now and bless yourself, enjoy the journey.",
+        "img":"https://i0.wp.com/www.techbii.com/wp-content/uploads/2020/11/instagram-for-marketing-png.png?fit=953%2C498&ssl=1&resize=1280%2C720",
+        "ratings":"4.5"
+    },
+    {
+        "course_id":"faab0078",
+        "category_id":"03",
+        "courseName":"Marketing Expert",
+        "body":"Next four months you'll be on another level . This is the course which will take you on the peak of success. What are you waiting for? Enroll now and bless yourself, enjoy the journey.",
+        "img":"https://i2.wp.com/s3-us-west-2.amazonaws.com/content.edupristine.com/images/blogs/6-Aspects-of-Digital-Marketing-you-should-Know.jpg?resize=1280%2C720&ssl=1",
+        "ratings":"4.5"
+    },
+    {
+        "course_id":"1212",
+        "category_id":"04",
+        "courseName":"Self-Care",
+        "body":"The course  consists of 20 Weekly Tips or suggestions for you to do that have been scientifically shown to improve and protect our mental health..Take care of yourself.",
+        "img":"https://i.ytimg.com/vi/N0omVkBtbEc/maxresdefault.jpg",
+        "ratings":"4.9"
+    },
+    {
+        "course_id":"1212asdf",
+        "category_id":"04",
+        "courseName":"Be Strong",
+        "body":"The course  consists of 10 Weekly Tips or suggestions for you to do that have been scientifically shown to improve and protect our mental health..Take care of yourself. Be supercool from inside!",
+        "img":"https://zorbacare.com/blog/wp-content/uploads/2022/08/Psychological-Barriers.jpg",
+        "ratings":"4.8"
+    },
+    {
+        "course_id":"5555asdf",
+        "category_id":"05",
+        "courseName":"Dessert Master",
+        "body":"Dessert, the last course of a meal. Dessert is likely to consist of pastry, cake, ice cream, pudding, or fresh or cooked fruit. Learn preparing delicious dessert, you'll be a chef soon! ",
+        "img":"https://www.chatelaine.com/wp-content/uploads/2021/03/CHE04_WEB_FD_VEGAN-DESSERTS-feature1.jpg",
+        "ratings":"4.5"
+    },
+    {
+        "course_id":"4444asdf",
+        "category_id":"05",
+        "courseName":"Biryani Pro",
+        "body":"Be the best Biryani maker in town. Who doesn't love biryani? We all are fond of it, so take the courese and be a pro in biryani making. ",
+        "img":"https://assets.gqindia.com/photos/60f56c7b22fc5e940a2945fb/16:9/w_1280,c_limit/best-biryanj-for-eid.jpg",
+        "ratings":"5.0"
+    },
+    {
+        "course_id":"7676asdf",
+        "category_id":"06",
+        "courseName":"Intraday Legend",
+        "body":"In this Course you will learn & understand how to trade in Intraday in real time market & also how to make money from trading. This course will give you confidence & help you to trade in stock.",
+        "img":"https://cf-images.us-east-1.prod.boltdns.net/v1/static/6275808953001/71be1671-9c1c-4420-bbeb-7da29844f7de/e91c580d-1c89-48d7-b864-fdab751665da/1280x720/match/image.jpg",
+        "ratings":"5.0"
+    },
+    {
+        "course_id":"5656asdf",
+        "category_id":"06",
+        "courseName":"Master Crypto Trading",
+        "body":"The Complete Cryptocurrency Trading Course is designed to turn you into a profitable crypto trading ninja in a short period of time and provide you with all the proven strategies.",
+        "img":"https://nftplazas.com/wp-content/uploads/2022/12/Binance-NFT-Offers-Zero-Trading-Fees-for-December-1280x720.jpg",
+        "ratings":"5.0"
+    }
+]

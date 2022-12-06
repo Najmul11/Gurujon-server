@@ -19,6 +19,24 @@ app.get('/categories', (req, res)=>{
 })
 
 
+const allCourses=require('./Data/allcourses.json')
+app.get('/allcourses', (req, res)=>{
+    res.send(allCourses)
+})
+
+app.get('/allcourses/:id',  (req, res)=>{
+    const id=req.params.id;
+    const filteredQursesByCategory= allCourses.filter(course=> id ===course.category_id)
+    res.send(filteredQursesByCategory)
+})
+
+app.get('/checkout/:id', (req, res)=>{
+    const id= req.params.id
+    const courseById=allCourses.find(singleCourse=> singleCourse.course_id === id)
+    res.send(courseById)
+})
+
+
 app.listen(port, (req, res)=>{
     console.log('listening to port ',port);
 })
